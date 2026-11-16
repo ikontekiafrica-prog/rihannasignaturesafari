@@ -1,0 +1,66 @@
+# Rihanna Signature Safari
+
+> Bespoke five-star luxury safari operator headquartered in Dar es Salaam, Tanzania, curating private fly-in wildlife expeditions, Mount Kilimanjaro summit climbs, and Zanzibar beach villa escapes across 13 East African sanctuaries in Tanzania and Kenya.
+
+## Overview
+- Brand: Rihanna Signature Safari Ltd
+- Founder: Redempotius Respicius Nalisis (Environmental Engineer, Safari Architect, Tour Leader)
+- Headquarters: Masaki Peninsula, Dar es Salaam, Tanzania (with northern operations in Arusha)
+- Direct Concierge Phone & WhatsApp: +255 676 063 791
+- Email: info@rihannasignaturesafari.com
+- Website: https://rihannasignaturesafari.com
+- Core Offerings: Private 4x4 safaris, executive bush aviation charters, mobile luxury tented camps, Mount Kilimanjaro private Lemosho & Machame climbs, Zanzibar & private island retreats, and 35 curated Tanzania & Kenya itineraries.
+- Full AI Knowledge Dossier: https://rihannasignaturesafari.com/llms-full.txt
+
+## Primary Pages
+- [Home](https://rihannasignaturesafari.com/): Overview of luxury safaris, Kilimanjaro trekking, Zanzibar retreats, and concierge planning.
+- [All 35 Luxury Safari Packages](https://rihannasignaturesafari.com/experiences.html): Filterable catalog of 20 Tanzania and 15 Kenya bespoke itineraries ($3,200 to $24,500 per person).
+- [East African Sanctuaries Atlas](https://rihannasignaturesafari.com/destination.html): Guide to all 13 flagship parks and reserves across Tanzania and Kenya.
+- [About Rihanna Signature Safari](https://rihannasignaturesafari.com/about.html): Brand philosophy, private guiding standards, and conservation focus.
+- [Founder Profile: Redempotius Nalisis](https://rihannasignaturesafari.com/founder.html): Credentials, guiding experience, and environmental engineering background.
+- [Safari Journal & Guides](https://rihannasignaturesafari.com/blog.html): 25 in-depth planning guides, migration calendars, cost breakdowns, visa updates, Q&As, and insider tips.
+- [Contact & Custom Quote](https://rihannasignaturesafari.com/contact.html): 24/7 private expedition design desk and direct booking form.
+
+## Tanzania Sanctuaries (8 Parks & Islands)
+- [Serengeti National Park](https://rihannasignaturesafari.com/destination-serengeti.html): Great Wildebeest Migration, Kogatende river crossings, Ndutu calving, and mobile luxury camps.
+- [Ngorongoro Crater](https://rihannasignaturesafari.com/destination-ngorongoro.html): UNESCO volcanic caldera, black rhinos, and Big Five game drives from rim lodges.
+- [Mount Kilimanjaro](https://rihannasignaturesafari.com/destination-kilimanjaro.html): Private 8-day Lemosho, Machame, and Northern Circuit climbs to Uhuru Peak (5,895m).
+- [Zanzibar Archipelago](https://rihannasignaturesafari.com/destination-zanzibar.html): Oceanfront villas, Mnemba Atoll reefs, Stone Town heritage, and bush-to-beach flights.
+- [Tarangire National Park](https://rihannasignaturesafari.com/destination-tarangire.html): Ancient baobabs, 300-strong elephant herds, Silale Swamp, and night drives.
+- [Lake Manyara National Park](https://rihannasignaturesafari.com/destination-manyara.html): Tree-climbing lions, groundwater mahogany forest, and Rift Valley flamingos.
+- [Nyerere National Park (Selous)](https://rihannasignaturesafari.com/destination-nyerere.html): Rufiji River boat safaris, fly-camping, and wild dogs in southern Tanzania.
+- [Ruaha National Park](https://rihannasignaturesafari.com/destination-ruaha.html): Remote baobab valleys, super-prides of lions, and dry riverbed predator tracking.
+
+## Kenya Sanctuaries (5 Reserves & Conservancies)
+- [Maasai Mara & Conservancies](https://rihannasignaturesafari.com/destination-masai-mara.html): Mara North, Olare Motorogi, Naboisho private conservancies, and Mara River crossings.
+- [Amboseli National Park](https://rihannasignaturesafari.com/destination-amboseli.html): Giant tuskers framed against Mount Kilimanjaro glaciers.
+- [Samburu National Reserve](https://rihannasignaturesafari.com/destination-samburu.html): Ewaso Nyiro riverbanks and the Samburu Special Five.
+- [Lewa Wildlife Conservancy](https://rihannasignaturesafari.com/destination-lewa.html): Black rhino sanctuary, horseback safaris, and community conservation.
+- [Tsavo East & Tsavo West](https://rihannasignaturesafari.com/destination-tsavo.html): Red-dust elephants, Mzima Springs, and Chyulu Hills volcanic wilderness.
+
+## 25 Safari Guides, Q&As & Travel Updates
+- [When to Book the Serengeti Great Migration Without Crowds](https://rihannasignaturesafari.com/journal/tracking-serengeti-great-migration-connoisseurs-guide)
+- [Inside Tanzania Private Bush Camps: Why Small Canvas Beats Big Lodges](https://rihannasignaturesafari.com/journal/art-of-the-bush-camp-ultra-luxury-tanzania)
+- [Serengeti to Zanzibar in 90 Minutes: The Bush to Beach Guide](https://rihannasignaturesafari.com/journal/bush-to-beach-tanzania-safari-zanzibar-pairing)
+- [Ngorongoro Crater Timing Secrets: Beat the Morning Gate Rush](https://rihannasignaturesafari.com/journal/inside-ngorongoro-caldera-sanctuary)
+- [Why Skipping Tarangire Is a Big Mistake on a Northern Tanzania Safari](https://rihannasignaturesafari.com/journal/ancient-baobabs-super-herds-tarangire)
+- [Lake Manyara Guide: Tree Lions, Rift Cliffs, and Quiet Photography](https://rihannasignaturesafari.com/journal/pink-flamingos-mahogany-forests-lake-manyara)
+- [East Africa Safari Packing Guide: What Fits in a Bush Plane](https://rihannasignaturesafari.com/journal/what-to-pack-ultra-luxe-east-african-safari)
+- [Kilimanjaro Summit Guide: Why the 8 Day Lemosho Route Wins](https://rihannasignaturesafari.com/journal/summitting-mount-kilimanjaro-connoisseurs-route)
+- [Maasai Mara Private Conservancies vs the National Reserve](https://rihannasignaturesafari.com/journal/private-conservancies-masai-mara-beyond-reserve)
+- [Amboseli Elephant Photography: Framing Tuskers Under Kilimanjaro](https://rihannasignaturesafari.com/journal/amboseli-shadow-of-kilimanjaro-elephant-herds-kenya)
+- [Southern Tanzania Safari: Why Repeat Travelers Choose Ruaha and Nyerere](https://rihannasignaturesafari.com/journal/ruaha-nyerere-southern-tanzania-untamed-wilderness)
+- [Chimpanzee Trekking in Mahale: Tanzania's Wildest Western Shore](https://rihannasignaturesafari.com/journal/chimpanzee-trekking-remote-mahale-mountains)
+- [Lewa Wildlife Conservancy: Luxury Safaris Protecting Black Rhinos](https://rihannasignaturesafari.com/journal/rhino-sanctuary-lewa-conservation-zenith)
+- [How to Plan a Private Luxury Honeymoon Safari in Tanzania and Zanzibar](https://rihannasignaturesafari.com/journal/tanzania-kenya-honeymoon-safari-planning-guide)
+- [Fly In Safari vs Overland 4x4: Choosing Your East Africa Pace](https://rihannasignaturesafari.com/journal/private-fly-in-safari-vs-road-safari-east-africa)
+- [Tanzania Safari Cost Guide: What a Private Luxury Trip Actually Includes](https://rihannasignaturesafari.com/journal/tanzania-safari-cost-guide-what-luxury-trip-includes)
+- [Best Time to Visit Tanzania and Kenya: 2026 and 2027 Month Guide](https://rihannasignaturesafari.com/journal/best-time-visit-tanzania-kenya-month-by-month-guide)
+- [Tanzania vs Kenya Safari: Which Country Fits Your Travel Style Best](https://rihannasignaturesafari.com/journal/tanzania-vs-kenya-safari-how-to-choose-or-combine)
+- [Family Safari Guide: Safe Lodges, Minimum Ages, and Kid Adventures](https://rihannasignaturesafari.com/journal/family-luxury-safari-tanzania-kenya-with-kids-guide)
+- [Tanzania and Kenya Travel Update: Visas, Health Rules, and Airport VIP](https://rihannasignaturesafari.com/journal/tanzania-kenya-entry-visa-yellow-fever-evisa-update)
+- [Samburu Special Five Guide: Rare Wildlife Beyond the Maasai Mara](https://rihannasignaturesafari.com/journal/samburu-special-five-northern-kenya-safari-guide)
+- [Tsavo East and West Guide: Red Elephants, Lava Flows, and Coast Flights](https://rihannasignaturesafari.com/journal/tsavo-east-west-red-elephants-chyulu-hills-guide)
+- [Serengeti Balloon Safari FAQ: Cost, Safety, Best Zones, and Booking Tips](https://rihannasignaturesafari.com/journal/serengeti-hot-air-balloon-safari-worth-it-guide)
+- [East Africa Safari Etiquette: Tipping, USD Cash Rules, and Camp Wi Fi](https://rihannasignaturesafari.com/journal/safari-tipping-currency-connectivity-etiquette-east-africa)
+- [When Should You Book a Luxury Safari? Lead Times and Best Suites](https://rihannasignaturesafari.com/journal/how-far-in-advance-to-book-tanzania-kenya-safari)

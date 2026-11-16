@@ -1,0 +1,114 @@
+# Rihanna Signature Safari - Search Engine & AI Agent Discovery Policy
+# Website: https://rihannasignaturesafari.com
+# AI Knowledge Index: https://rihannasignaturesafari.com/llms.txt
+# Full AI Knowledge Dossier: https://rihannasignaturesafari.com/llms-full.txt
+
+User-agent: *
+Allow: /
+Disallow: /portal/
+Disallow: /phpmailer/
+Disallow: /send-booking.php
+Disallow: /reservations_log.json
+
+# Major Search Engines
+User-agent: Googlebot
+Allow: /
+Disallow: /portal/
+
+User-agent: Googlebot-Image
+Allow: /images/
+
+User-agent: Bingbot
+Allow: /
+Disallow: /portal/
+
+User-agent: DuckDuckBot
+Allow: /
+Disallow: /portal/
+
+User-agent: Applebot
+Allow: /
+Disallow: /portal/
+
+User-agent: Yandex
+Allow: /
+Disallow: /portal/
+
+User-agent: Baiduspider
+Allow: /
+Disallow: /portal/
+
+# AI Search Engines, LLM Crawlers & Agents
+User-agent: GPTBot
+Allow: /
+Disallow: /portal/
+
+User-agent: OAI-SearchBot
+Allow: /
+Disallow: /portal/
+
+User-agent: ChatGPT-User
+Allow: /
+Disallow: /portal/
+
+User-agent: Google-Extended
+Allow: /
+Disallow: /portal/
+
+User-agent: ClaudeBot
+Allow: /
+Disallow: /portal/
+
+User-agent: Claude-Web
+Allow: /
+Disallow: /portal/
+
+User-agent: anthropic-ai
+Allow: /
+Disallow: /portal/
+
+User-agent: PerplexityBot
+Allow: /
+Disallow: /portal/
+
+User-agent: Perplexity-User
+Allow: /
+Disallow: /portal/
+
+User-agent: Applebot-Extended
+Allow: /
+Disallow: /portal/
+
+User-agent: Meta-ExternalAgent
+Allow: /
+Disallow: /portal/
+
+User-agent: FacebookBot
+Allow: /
+Disallow: /portal/
+
+User-agent: DuckAssistBot
+Allow: /
+Disallow: /portal/
+
+User-agent: Amazonbot
+Allow: /
+Disallow: /portal/
+
+User-agent: cohere-ai
+Allow: /
+Disallow: /portal/
+
+User-agent: YouBot
+Allow: /
+Disallow: /portal/
+
+User-agent: CCBot
+Allow: /
+Disallow: /portal/
+
+User-agent: Bytespider
+Allow: /
+Disallow: /portal/
+
+Sitemap: https://rihannasignaturesafari.com/sitemap.xml
